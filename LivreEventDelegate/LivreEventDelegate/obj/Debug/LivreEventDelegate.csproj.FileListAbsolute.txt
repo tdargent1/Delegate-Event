@@ -1,0 +1,12 @@
+C:\DARGENT\LivreEventDelegate\LivreEventDelegate\bin\Debug\LivreEventDelegate.exe.config
+C:\DARGENT\LivreEventDelegate\LivreEventDelegate\bin\Debug\LivreEventDelegate.exe
+C:\DARGENT\LivreEventDelegate\LivreEventDelegate\bin\Debug\LivreEventDelegate.pdb
+C:\DARGENT\LivreEventDelegate\LivreEventDelegate\obj\Debug\LivreEventDelegate.csprojAssemblyReference.cache
+C:\DARGENT\LivreEventDelegate\LivreEventDelegate\obj\Debug\LivreEventDelegate.Properties.Resources.resources
+C:\DARGENT\LivreEventDelegate\LivreEventDelegate\obj\Debug\LivreEventDelegate.csproj.GenerateResource.cache
+C:\DARGENT\LivreEventDelegate\LivreEventDelegate\obj\Debug\LivreEventDelegate.csproj.CoreCompileInputs.cache
+C:\DARGENT\LivreEventDelegate\LivreEventDelegate\obj\Debug\LivreEventDelegate.exe
+C:\DARGENT\LivreEventDelegate\LivreEventDelegate\obj\Debug\LivreEventDelegate.pdb
+C:\DARGENT\LivreEventDelegate\LivreEventDelegate\obj\Debug\LivreEventDelegate.FHISTORIQUE.resources
+C:\DARGENT\LivreEventDelegate\LivreEventDelegate\obj\Debug\LivreEventDelegate.FLIVRE.resources
+C:\DARGENT\LivreEventDelegate\LivreEventDelegate\obj\Debug\LivreEventDelegate.FMAIN.resources
