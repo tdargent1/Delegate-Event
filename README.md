@@ -4,7 +4,7 @@ Le but est de créer un événement sur une classe. Cet événement sera alors d
 
 ### De quoi disposons nous
 
-* FMAIN : Fenêtre principale de démarrage de l'application<br><br><br>
+* FMAIN : Fenêtre principale de démarrage de l'application<br>
 Instanciée au moment du démarrage. Elle ne comporte qu'un bouton permettant d'instancier un objet : Livre.<br>
   Instancie un livre.<br>
   Instancie la fenêtre FLIVRE et l'affiche.<br>
@@ -27,3 +27,9 @@ Instanciée au moment du démarrage. Elle ne comporte qu'un bouton permettant d'
 ### Cinématique de l'application 
 
 ![Capture.png](https://image.noelshack.com/fichiers/2019/13/7/1554038062-img-5085.jpg)
+
+
+### Ajout du pourcentage de hausse
+
+![Capture.png](https://image.noelshack.com/fichiers/2019/13/7/1554037552-capture4.png)
+
